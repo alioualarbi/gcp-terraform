@@ -244,3 +244,7 @@ Run ```terraform apply``` followed by ```terraform output ip``` to return the in
 ```
 ssh `terraform output ip`
 ```
+#### Cleaning up
+```
+$ terraform destroy
+```
